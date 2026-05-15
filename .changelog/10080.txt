@@ -1,0 +1,2 @@
+bug fix
+agent: Fixed an issue where the agent would panic when reloading configuration with an invalid TLS configuration.
