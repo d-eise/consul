@@ -1,0 +1,3 @@
+```release-note:bug
+agent: fix race condition in cache eviction that could cause a panic when multiple goroutines attempted to evict the same entry simultaneously
+```
