@@ -1,0 +1,3 @@
+bug fix
+
+agent: Fixed a bug where the agent would panic when reloading configuration with an invalid check definition.
