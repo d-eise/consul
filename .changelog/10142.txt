@@ -1,0 +1,3 @@
+bug fix
+
+agent: Fixed a bug where the agent would panic when receiving a malformed DNS query with an empty question section.
