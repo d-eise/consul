@@ -1,0 +1,2 @@
+bug fix
+consul: Fixed an issue where health check status was not properly propagated during leader elections.
