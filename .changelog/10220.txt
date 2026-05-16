@@ -1,0 +1,3 @@
+bug fix
+
+agent: Fixed a bug where the agent would fail to reconnect to the cluster after a network partition when using the gossip encryption key rotation feature.
