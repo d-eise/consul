@@ -1,0 +1,3 @@
+bug fix
+
+agent: fixed a bug where health check status was not properly updated when the check TTL expired during a leadership transfer
