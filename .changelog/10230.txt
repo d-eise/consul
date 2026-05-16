@@ -1,0 +1,3 @@
+```release-note:bug
+agent: fix potential deadlock when closing the agent's HTTP server during shutdown
+```
