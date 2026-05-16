@@ -1,0 +1,3 @@
+bug fixes
+
+agent: fixed a bug where health check status was not properly updated when a service was re-registered with different check definitions
