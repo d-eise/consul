@@ -1,0 +1,3 @@
+bug fix
+
+agent: Fixed an issue where the agent cache would not be properly invalidated when ACL tokens were updated, leading to stale permission checks in some edge cases.
