@@ -1,0 +1,3 @@
+```release-note:bug
+connect: Fixed an issue where terminating gateways were not correctly routing to services with multiple tags defined in their service defaults.
+```
